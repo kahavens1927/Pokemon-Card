@@ -1,0 +1,122 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .outside {
+    border: solid 8px gray;
+    border-radius: 15px;
+    height: 600px;
+    width: 450px;
+    background: #85C451;
+    background: -moz-radial-gradient(center, #85C451 0%, #C5DA4E 67%, #E3E65F 100%);
+    background: -webkit-radial-gradient(center, #85C451 0%, #C5DA4E 67%, #E3E65F 100%);
+    background: radial-gradient(ellipse at center, #85C451 0%, #C5DA4E 67%, #E3E65F 100%);
+    position: relative;
+  }
+  
+  .basic {
+    width: 50px;
+    height: 20px;
+    background-color: #DEDDDF;
+    border-radius: 14px;
+    border: solid black 1px;
+    font-size: 15px;
+    text-align: center;
+    padding: 2px;
+    font-style: italic;
+    left: -3px;
+    position: relative;
+  }
+  
+  .sprigatito {
+    left: 65px;
+    position: absolute;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: bold;
+    font-weight: 1000;
+  }
+
+  h6 {
+    position: absolute;
+    top: 14px;
+    left: 330px;
+
+  }
+  
+  .image1 {
+    border-radius: 40px;
+    left: 413px;
+    position: absolute;
+    top: 10px;
+  }
+  
+  .image2 {
+    border-radius: 15px;
+    border: solid gray 5px;
+    
+  }
+  
+  .stats {
+    width: 400px;
+    height: 20px;
+    background-color: #DEDDDF;
+    border-radius: 20px;
+    border: solid #A3A2A4 4px;
+    position: absolute;
+    top: 340px;
+    left: 22px;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    position: relative;
+    top: 355px;
+    font-size: 25px;
+  }
+    
+  .image3 {
+    border-radius: 40px;
+  }
+  
+  h5 {
+    text-align: center;
+    position: relative;
+    top: 332px;
+  }
+
+  .image4 {
+    border-radius: 40px;
+
+  }
+
+  .powers {
+    position: relative;
+    top: 400px;
+    left: 20px;
+    width: 400px;
+    border-top: #DEDDDF 4px solid;
+    border-bottom: #DEDDDF 4px solid;
+    
+  }
+
+  .bottom_info {
+    position: absolute;
+    top: 517px;
+    text-align: left;
+    margin-left: -115px;
+  }
+
+  
+
+  
+
+ 
+ 
+
+  
+  
